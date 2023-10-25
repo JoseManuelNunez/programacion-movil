@@ -1,6 +1,6 @@
 import React from 'react'
 import { Image, View } from 'react-native'
-import StyledText from '../Atoms/StyledText.jsx'
+import StyledText from '../atoms/TextStyled.jsx'
 import RepositoryStats from './RepositoryStats.jsx'
 import { repositoryItemStyles } from '../Atoms/Styles.js'
 
